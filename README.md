@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Josh</h1>
 <h3 align="center">Infinite loop of coffee → code → regret → repeat.</h3>
 
 <h3 align="left">Connect with me:</h3>
