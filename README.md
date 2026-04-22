@@ -13,19 +13,6 @@ I enjoy building practical solutions, exploring different technologies, and impr
 - Bachelor of Computer Science  
   Belgium Campus iTversity, 2024–Present
 
-## Experience
-### Bartender — The Aleit Group
-_Feb 2026 – Present_
-- Developed strong communication and interpersonal skills through customer interaction
-- Worked efficiently in fast-paced environments while maintaining high service standards
-- Improved time management and teamwork during busy service periods
-
-### Sales Assistant — Jungle Aquatics
-_Nov 2023 – Jan 2024_
-- Helped customers with product advice and support
-- Assisted with sales, stock handling, and store presentation
-- Built stronger customer service and problem-solving skills
-
 ## Languages and Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -44,16 +31,12 @@ _Nov 2023 – Jan 2024_
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
-## Currently Learning
-- Full-stack development
-- Better software design practices
-- Building projects with cleaner structure and better UI
-
 ## Goals
-- Grow as a software developer
-- Build meaningful real-world projects
-- Strengthen my back-end and database skills
-- Keep learning and improving every day
+- Develop strong skills in software development and data science
+- Build real-world projects that demonstrate practical problem-solving
+- Improve my understanding of databases, back-end systems, and data-driven solutions
+- Continue learning and adapting to new technologies
+- Prepare for a successful career in the tech industry
 
 ## Connect with Me
 - Instagram: [_josh.arnold_](https://instagram.com/_josh.arnold_)
