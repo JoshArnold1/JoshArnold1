@@ -8,7 +8,7 @@ I'm a third-year Bachelor of Computer Science student at Belgium Campus iTversit
 I enjoy building practical solutions, exploring different technologies, and improving my skills across both front-end and back-end development. I'm especially interested in writing code that is clean, useful, and always a little less broken than the last version.
 
 ## Education
-- Diploma in Information Technology  
+- High School  
   Dainfern College, 2019–2023
 - Bachelor of Computer Science  
   Belgium Campus iTversity, 2024–Present
